@@ -1,7 +1,7 @@
 {
   "main.css": "/Library-Manager-site/static/css/main.87f66cec.chunk.css",
-  "main.js": "/Library-Manager-site/static/js/main.ef82afe5.chunk.js",
-  "main.js.map": "/Library-Manager-site/static/js/main.ef82afe5.chunk.js.map",
+  "main.js": "/Library-Manager-site/static/js/main.b93403c2.chunk.js",
+  "main.js.map": "/Library-Manager-site/static/js/main.b93403c2.chunk.js.map",
   "static/js/1.b965d220.chunk.js": "/Library-Manager-site/static/js/1.b965d220.chunk.js",
   "static/js/1.b965d220.chunk.js.map": "/Library-Manager-site/static/js/1.b965d220.chunk.js.map",
   "static/js/2.5fb88007.chunk.js": "/Library-Manager-site/static/js/2.5fb88007.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Library-Manager-site/static/js/runtime~main.7919c3dc.js.map",
   "static/css/main.87f66cec.chunk.css.map": "/Library-Manager-site/static/css/main.87f66cec.chunk.css.map",
   "index.html": "/Library-Manager-site/index.html",
-  "precache-manifest.2ce156f8c50fe00ede1d71871fb7a9f0.js": "/Library-Manager-site/precache-manifest.2ce156f8c50fe00ede1d71871fb7a9f0.js",
+  "precache-manifest.75b7c06c2c22297760f8e215c5d182a6.js": "/Library-Manager-site/precache-manifest.75b7c06c2c22297760f8e215c5d182a6.js",
   "service-worker.js": "/Library-Manager-site/service-worker.js"
 }
