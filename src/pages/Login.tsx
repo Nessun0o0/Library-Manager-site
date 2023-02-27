@@ -13,6 +13,7 @@ function Login() {
 
   return (
     <div className="Login">
+      <h1>Login</h1>
         <input type="button" value="bella" onClick={() => navigate("./Home")}></input>
         <label>Email:</label><br></br>
         <input type="text" id="email" value={email} onChange={(e) => setEmail(e.target.value)}></input><br></br>
